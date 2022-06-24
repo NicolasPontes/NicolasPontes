@@ -4,4 +4,10 @@
   
   ![Nicolas GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasPontes&theme=gotham&show_icons=true)
 
-### M
+### Meus Aprendizados 
+  <div style = "display: inline_block"> <br/>
+    <img width = "50" heigth = "50" align = "center" alt = "Html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+    <img width = "50" heigth = "50" align = "center" alt = "Html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+    <img width = "50" heigth = "50" align = "center" alt = "Html5" src="" />
+    <img width = "50" heigth = "50" align = "center" alt = "Html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+  </div>
