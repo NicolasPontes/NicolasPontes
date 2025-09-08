@@ -22,5 +22,5 @@ Sou um **aprendiz em programação** com interesse em desenvolvimento web e back
   <img width="50" height="50" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
   <img width="50" height="50" alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img width="50" height="50" alt="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img width="50" height="50" alt="Laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+  <img width="50" height="50" alt="Laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-line-wordmark.svg" />
 </div>
