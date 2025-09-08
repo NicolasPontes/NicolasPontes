@@ -1,6 +1,6 @@
 ### 👋 Olá! Eu sou o Nicolas Pontes
 
-Sou um **aprendiz em programação** com interesse em desenvolvimento web e backend. Atualmente estou aprendendo tecnologias como HTML, CSS, Python, PHP e muito mais!
+Sou um **aprendiz em programação** com interesse em desenvolvimento web, backend e automações. Atualmente estou aprendendo tecnologias como Python, PHP, C e muito mais!
 
 ---
 
