@@ -1,6 +1,6 @@
 ### 👋 Olá! Eu sou o Nicolas Pontes
 
-Sou um **aprendiz administrativo na Toyota**, tenho interesse na área de desenvolvimento web, backend e automações. Atualmente estou aprendendo tecnologias como Python, PHP e C.
+**Analista de dados em formação**, atualmente finalizei meu contrato de aprendiz administrativo na Toyota. Trabalho com **Python (Pandas), SQL e Excel** para extrair, tratar e interpretar dados, com foco em transformar informação em decisão. Também tenho interesse em desenvolvimento backend e automações, usando PHP e C para construir as ferramentas por trás da análise.
 
 ---
 
@@ -13,14 +13,14 @@ Sou um **aprendiz administrativo na Toyota**, tenho interesse na área de desenv
 
 ---
 
-### 🚀 Tecnologias que estou aprendendo
+### 🛠️ Stack e ferramentas
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img width="50" height="50" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+  <img width="50" height="50" alt="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img width="50" height="50" alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img width="50" height="50" alt="Laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-line-wordmark.svg" />
   <img width="50" height="50" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img width="50" height="50" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
   <img width="50" height="50" alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-  <img width="50" height="50" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-  <img width="50" height="50" alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img width="50" height="50" alt="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img width="50" height="50" alt="Laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-line-wordmark.svg" />
 </div>
